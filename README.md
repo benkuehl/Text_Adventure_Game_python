@@ -1,7 +1,7 @@
 Indiana Jones and the Last Crusade — A Python Text Adventure
 
-https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white
-https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 A choose-your-own-adventure game written in Python, inspired by Indiana Jones and the Last Crusade. The player takes on the role of Indiana Jones on a quest to find the Holy Grail and rescue his father, navigating five stages of decisions where the wrong choice spells death — and the right one moves the story forward.
 Built as a class project in my Master of Science in Management at Hult International Business School. The objective was to design a complete text adventure using core Python — functions, loops, conditionals, lists, and exception handling — to demonstrate command of the fundamentals.
